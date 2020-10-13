@@ -1,0 +1,209 @@
+
+
+body {
+  margin: 100px 60px;
+  background-color: white;
+  align-content: center;
+
+}
+h1 {
+  position: absolute;
+  width: 717px;
+  height: 143px;
+  left: calc(40% - 535px/2 - 0.5px);
+  top: 54px;
+  font-family: Yeseva One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 64px;
+  line-height: 74px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #4F4F4F;
+  margin-left: 150px;
+  margin-right: auto;
+
+}
+h3 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 24px;
+}
+h3 {
+  position: absolute;
+  padding-right:70px;
+  left: 361px;
+  top: 213px;
+  border-right: 40px;
+  color: #4F4F4F;
+  filter: drop-shadow(0px 4px 50px #FFFFFF);
+  }
+
+h3 {
+  position: absolute;
+  width: 94px;
+  height: 27px;
+  left: calc(50% - 140px/2 - 344px);
+  top: 200px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 27px;
+  color: #4F4F4F;
+}
+
+h3 + h3 {
+  position: absolute;
+  width: 133px;
+  height: 27px;
+  left: calc(50% - 199px/2 - 93.5px);
+  top: 201px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 27px;
+  color: #4F4F4F;
+  }
+
+h3 + h3 + h3 {
+  position: absolute;
+width: 75px;
+height: 27px;
+left: calc(50% - 112px/2 + 143px);
+top: 201px;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+color: #4F4F4F;
+}
+
+h3 + h3 + h3 + h3 {
+  position: absolute;
+width: 201px;
+height: 27px;
+left: calc(50% - 99px/2 + 329.5px);
+top: 201px;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+color: #4F4F4F;
+}
+
+/* h3 + h3 + h3 + h3 + h3 {
+
+position: absolute;
+width: 66px;
+height: 27px;
+left: 1012px;
+top: 214px;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+color: #4F4F4F;
+} */
+
+
+
+img {
+  margin-left: 220px;
+  margin-right: auto;
+  margin-top: 200px;
+  /* margin-bottom: 130px; */
+  width: 1018px;
+  /* height: 821px; */
+  align-self: center;
+}
+
+p {
+  font-family: 'Poppins', sans-serif;
+  margin-left:100px;
+  width: 546px;
+  font-size: 18px;
+  margin-bottom: 70px;
+}
+h2 {
+
+  /* position: absolute; */
+  margin-left: 60px;
+  width: 630px;
+  height: 53px;
+  left: calc(50% - 630px/2 - 345px);
+    /* top: 1027px; */
+
+  /* Заголовок 2 */
+
+  font-family: Yeseva One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 55px;
+
+  /* Gray 1 */
+
+  color: #333333;
+  margin-bottom: 75px;
+}
+
+
+p + p + img {
+  position: absolute;
+  width: 616px;
+  height: 751px;
+  margin-left: 765px;
+  /* left: calc(50% - 616px/2 + 352px); */
+  top: 812px;
+  margin-bottom: 1920px;
+
+
+}
+
+.ferma1 {
+
+   position: absolute;
+   width: 1194px;
+   height: 247px;
+   left: 123px;
+   top: 1950px;
+   margin-bottom: 20px;
+}
+
+blockquote {
+  position: absolute;
+  width: 501px;
+  height: 671px;
+  left: calc(50% - 501px/2 + 315.5px);
+  top: 2570px;
+
+  font-family: Montserrat;
+  font-style: italic;
+  font-weight: 300;
+  font-size: 36px;
+  line-height: 155%;
+  color: #4F4F4F;
+}
+blockquote + p {
+  position: absolute;
+width: 259px;
+height: 56px;
+left: calc(50% - 259px/2 + 420.5px);
+top: 3250px;
+
+font-family: 'Montserrat';
+font-style: italic;
+font-weight: 300;
+font-size: 36px;
+line-height: 155%;
+/* identical to box height, or 56px */
+
+
+/* Gray 2 */
+
+color: #4F4F4F;
+}
+
+img + h2 {
+  margin-top: 45px;
+}

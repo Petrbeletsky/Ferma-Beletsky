@@ -102,7 +102,7 @@ color: #4F4F4F;
   position: absolute;
 width: 630px;
 height: 53px;
-left: calc(50% - 630px/2 - 345px);
+left: calc(50% - 500px/2 - 345px);
 top: 1027px;
 
 /* Заголовок 2 */
@@ -110,7 +110,7 @@ top: 1027px;
 font-family: Yeseva One;
 font-style: normal;
 font-weight: normal;
-font-size: 48px;
+font-size: 36px;
 line-height: 55px;
 
 /* Gray 1 */
@@ -204,7 +204,7 @@ color: #333333;
   position: absolute;
 width: 378px;
 height: 55px;
-left: calc(50% - 378px/2 - 471px);
+left: calc(50% - 500px/2 - 345px);
 top: 1781px;
 
 /* Заголовок 2 */
@@ -212,14 +212,14 @@ top: 1781px;
 font-family: Yeseva One;
 font-style: normal;
 font-weight: normal;
-font-size: 48px;
+font-size: 36px;
 line-height: 55px;
 }
 
 .formula-text1 {
 
   position: absolute;
-  width: 1194px;
+  width: 1000px;
   height: 123.25px;
   left: calc(50% - 1194px/2 - 8.19px);
   top: 1896.61px;
@@ -235,16 +235,16 @@ line-height: 55px;
 
 .ferma1 {
   position: absolute;
-  width: 1194px;
-  height: 247px;
-  left: calc(50% - 1194px/2 - 8px);
+  width: 1000px;
+  height: 207px;
+  left: calc(50% - 1050px/2 - 8px);
   top: 2060px;
 }
 
 .formula-text2 {
 
   position: absolute;
-  width: 1263px;
+  width: 1000px;
   height: 61px;
   left: calc(50% - 1263px/2 + 26.5px);
   top: 2454px;
@@ -259,7 +259,7 @@ line-height: 55px;
 
   /* Gray 1 */
 
-  color: #333333
+  color: #333333;
 
 }
 
@@ -268,7 +268,7 @@ line-height: 55px;
   position: absolute;
   width: 212px;
   height: 55px;
-  left: calc(50% - 212px/2 - 554px);
+  left: calc(50% - 500px/2 - 345px);
   top: 2651px;
   border-left: 50px;
 
@@ -277,7 +277,7 @@ line-height: 55px;
   font-family: Yeseva One;
   font-style: normal;
   font-weight: normal;
-  font-size: 48px;
+  font-size: 36px;
   line-height: 55px;
 
   /* Gray 1 */

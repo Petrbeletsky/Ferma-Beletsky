@@ -18,8 +18,6 @@ display: flex;
 align-items: center;
 text-align: center;
 
-/* Gray 2 */
-
 color: #4F4F4F;
 }
 
@@ -105,16 +103,11 @@ height: 53px;
 left: calc(50% - 500px/2 - 345px);
 top: 1027px;
 
-/* Заголовок 2 */
-
 font-family: Yeseva One;
 font-style: normal;
 font-weight: normal;
 font-size: 36px;
 line-height: 55px;
-
-/* Gray 1 */
-
 color: #333333;
 }
 
@@ -139,11 +132,6 @@ font-style: normal;
 font-weight: 600;
 font-size: 18px;
 line-height: 135%;
-/* or 24px */
-
-
-/* Gray 2 */
-
 color: #4F4F4F;
 }
 
@@ -159,11 +147,6 @@ font-style: normal;
 font-weight: 500;
 font-size: 18px;
 line-height: 135%;
-/* or 24px */
-
-
-/* Gray 1 */
-
 color: #333333;
 }
 
@@ -180,11 +163,6 @@ font-style: normal;
 font-weight: 500;
 font-size: 18px;
 line-height: 135%;
-/* or 24px */
-
-
-/* Gray 1 */
-
 color: #333333;
 }
 
@@ -206,8 +184,6 @@ width: 378px;
 height: 55px;
 left: calc(50% - 500px/2 - 345px);
 top: 1781px;
-
-/* Заголовок 2 */
 
 font-family: Yeseva One;
 font-style: normal;
@@ -254,11 +230,6 @@ line-height: 55px;
   font-weight: normal;
   font-size: 24px;
   line-height: 135%;
-  /* or 32px */
-
-
-  /* Gray 1 */
-
   color: #333333;
 
 }
@@ -271,17 +242,11 @@ line-height: 55px;
   left: calc(50% - 500px/2 - 345px);
   top: 2651px;
   border-left: 50px;
-
-  /* Заголовок 2 */
-
   font-family: Yeseva One;
   font-style: normal;
   font-weight: normal;
   font-size: 36px;
   line-height: 55px;
-
-  /* Gray 1 */
-
   color: #333333;
 
 }
@@ -299,11 +264,6 @@ line-height: 55px;
   font-weight: normal;
   font-size: 18px;
   line-height: 155%;
-  /* or 28px */
-
-
-  /* Gray 1 */
-
   color: #333333;
 
 }
@@ -321,11 +281,6 @@ line-height: 55px;
   font-weight: normal;
   font-size: 18px;
   line-height: 155%;
-  /* or 28px */
-
-
-  /* Gray 1 */
-
   color: #333333;
 
 }
@@ -349,11 +304,6 @@ font-style: italic;
 font-weight: 300;
 font-size: 36px;
 line-height: 155%;
-/* or 56px */
-
-
-/* Gray 2 */
-
 color: #4F4F4F;
 
 }
@@ -370,10 +320,107 @@ font-style: italic;
 font-weight: 300;
 font-size: 36px;
 line-height: 155%;
-/* identical to box height, or 56px */
-
-
-/* Gray 2 */
-
 color: #4F4F4F;
+}
+
+.footer {
+  position: absolute;
+  width: 1440px;
+  height: 222px;
+  left: calc(50% - 1440px/2);
+  top: 3598px;
+
+  background: #BE1522
+}
+
+.my-name {
+  position: absolute;
+width: 268px;
+height: 49px;
+left: calc(50% - 400px/2 + 1px);
+top: 3610px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 135%;
+text-align: center;
+color: #FFFFFF
+}
+
+.behance {
+  position: absolute;
+  width: 107px;
+  height: 32px;
+  left: calc(50% - 107px/2 - 490.5px);
+  top: 3708px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 135%;
+  /* or 32px */
+
+
+  color: #FFFFFF;
+
+
+}
+.instagram {
+  position: absolute;
+width: 127px;
+height: 32px;
+left: calc(50% - 127px/2 - 164.5px);
+top: 3708px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 135%;
+color: #FFFFFF;
+}
+
+.facebook {
+  position: absolute;
+width: 118px;
+height: 32px;
+left: calc(50% - 118px/2 + 167px);
+top: 3708px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 135%;
+color: #FFFFFF;
+}
+
+.vk {
+  position: absolute;
+width: 120px;
+height: 32px;
+left: calc(50% - 120px/2 + 495px);
+top: 3708px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 135%;
+/* or 32px */
+
+
+color: #FFFFFF;
+}
+
+.footer-link {
+  font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 135%;
+color: white;
 }
